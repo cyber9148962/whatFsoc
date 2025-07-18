@@ -18,7 +18,6 @@ Welcome to WhatFsoc!!!
 
 ## Introduction
 
- *                                                                             *
  * This script has been meticulously crafted with the utmost dedication and    *
  * expertise by the renowned programmer known across the digital realm as      *
  * "The Supreme Hacker Master". Their extensive experience in cybersecurity    *
